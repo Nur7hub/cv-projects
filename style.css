@@ -1,0 +1,141 @@
+*{
+		margin:0px;
+		padding:0px;
+		
+		}
+
+body{
+		background-color:#eee;
+		font-family: 'Roboto', sans-serif;
+
+		}
+		
+h1, h2, h3, h4, h5, h6{
+		color:#ff00a0
+		
+		}
+
+.container{
+		max-width:800px;
+		background-color:#ffffff;
+		margin:0 auto;
+		padding:20px;
+		
+		}
+
+#image{
+		height:120px;
+		width:100px;
+		border:3px solid white;
+		border-radius:50%;
+		float:left;
+
+		}
+
+.header-bio{
+		float:left;
+		padding:30px;
+		color:blue;
+		
+		}
+		
+.header-contact{
+		float:right;
+		padding:30px;
+		
+		}
+		
+.header-contact p a{
+		text-decoration:none;
+		color:blue;
+		font-weight:bold;
+		
+		}
+		
+.header-contact p a:hover{
+		text-decoration:underline;
+		color:#ff0000;
+		cursor:auto;
+		
+		}
+		
+.div-clear{
+		clear:both;
+		
+		}
+
+hr{
+		border:3px solid black;
+		width:100%;
+		margin:20px auto;
+		border-bottom: none;
+		
+		}
+		
+.left-div{
+		width:30%;
+		float:left;
+				
+		}
+				
+.right-div{
+		width:70%;
+		float:left;
+		
+		}
+		
+.common-hr{
+		width:100%;
+		margin: 30px auto;
+		border: 1px solid black;
+		border-bottom:none;
+		
+		}
+		
+#middle-div{
+		width:35%;
+		float:left;
+		
+		}
+		
+#right-div{
+		width:35%;
+		float:left;
+		
+		}
+		
+		/*------------------
+		footer section start
+		-------------------*/
+		
+.footer-section{
+		text-align:center;
+		background-color:black;
+		color:white;
+		padding:10px;
+		
+		}
+		
+.footer-section a{
+		text-decoration:none;
+		font-weight:bold;
+		padding:20px;
+		color:white;
+		
+		}
+		
+.footer-section p{
+		font-weight:bold;
+		padding:20px;
+		
+		}
+		
+.footer-section a:hover{
+		text-decoration:underline;
+		color:tomato;
+		
+		}
+		
+.footer-section a:visited{
+		text-decoration:none;
+		color:#ffe8ff;
